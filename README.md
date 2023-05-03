@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web3 💞️...
 - 📫 How to reach me :::: 9353427253 ...
 
-https://github.com/arunsaradgi/arunsaradgi.github.io
+<a href="https://github.com/arunsaradgi/arunsaradgi.github.io">github.io</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsaradgi&theme=algolia)](https://github.com/arunsaradgi/github-readme-stats)
 
