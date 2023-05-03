@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsaradgi&theme=algolia)](https://github.com/arunsaradgi/github-readme-stats)
 
+
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunsaradgi&show_icons=true&theme=radical)
 <!-- https://github-readme-stats.vercel.app/api?username=sakshimulekar&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321 -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arunsaradgi&theme=algolia)](https://git.io/streak-stats)
 <!-- 
