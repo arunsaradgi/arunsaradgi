@@ -1,6 +1,6 @@
 
 
-<a href="https://github.com/arunsaradgi/arunsaradgi.github.io">github.io</a>
+https://github.com/arunsaradgi/arunsaradgi.github.io
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsaradgi&theme=algolia)](https://github.com/arunsaradgi/github-readme-stats)
 
