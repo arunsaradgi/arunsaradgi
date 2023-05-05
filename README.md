@@ -136,22 +136,5 @@
   <br/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ************************************************************************ -->
-<!-- grid-snake  -->
-<div align="center">
-
- </div>
-
- 
- <p align="center">
-  <a href="https://github.com/arunsaradgui/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=aaaaaThank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
-</p> 
- <!----------------------------------------------------------------------------------------------------------------------------------------->
-
-<!--------------------------------------------------------GRAPH------------------------------------------------------------>
-
-<br/>
-<br/>
 
 
