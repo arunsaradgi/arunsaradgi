@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **saradgi07@gmail.com**
 
-- 🔭 Know more about me **[Portfolio](https://6452ac048d78170dfb44a8bd--gentle-vacherin-dca9b3.netlify.app/)**
+- 🔭 Know more about me **https://arunsaradgi.github.io/**
 
 - ⚡ Fun fact **Its only 0's and 1's**
 
