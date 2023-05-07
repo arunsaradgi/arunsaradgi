@@ -41,9 +41,9 @@
 <br/>
  
 <p align="left">
-<a href = "https://www.linkedin.com/in/arunsaradgi/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href = "https://www.instagram.com/arun_saradgi/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1tRkUXlOCqF9ENZZH3wk5JbYAcPkKrTU0/view?usp=share_link" target="blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" target="_blank" alt="resume"/></a>
+<a href = "https://www.linkedin.com/in/arunsaradgi/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+ <a href = "https://www.instagram.com/arun_saradgi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+<a href="https://drive.google.com/file/d/1tRkUXlOCqF9ENZZH3wk5JbYAcPkKrTU0/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" target="_blank" alt="resume"/></a>
 </p>
    </div>                                                                                                              
  <br/>   
