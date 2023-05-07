@@ -29,7 +29,7 @@
 
 - 🔭 Know more about me **https://arunsaradgi.github.io/**
 
-- ⚡ Fun fact **Its only 0's and 1's**
+- ⚡ Fun fact **Its only 0's and 1's here**
 
  </p>
  
