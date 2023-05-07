@@ -4,7 +4,8 @@
 <h4 align="left">- Currently looking for a new opprtunity</h4>
 </div>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunsaradgi&label=Profile%20views&color=0e75b6&style=flat" alt="amanastel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunsaradgi&label=Profile%20views&color=0e75b6&style=flat" alt="
+ arunsaradgi" /> </p>
 
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)
 
@@ -77,7 +78,7 @@
    <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amanastel" height="30" width="40" />
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arunsaradgi" height="30" width="40" />
    
  </div>
 </div>
@@ -95,13 +96,13 @@
 
  <div >
 
- <a  align="left" width="700px" href="https://github.com/amanastel"><img  width="350px" alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanastel&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amanastel&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="amanastel" /></a>
+ <a  align="left" width="700px" href="https://github.com/arunsaradgi"><img  width="350px" alt="Arun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsaradgi&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arunsaradgi&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="arunsaradgi" /></a>
 
 </div>
  <br/>
 <div align="right">
- <a align="right">&nbsp;<img align="right"  src="https://github-readme-activity-graph.cyclic.app/graph?username=amanastel&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="amanastel" /></a>
+ <a align="right">&nbsp;<img align="right"  src="https://github-readme-activity-graph.cyclic.app/graph?username=arunsaradgi&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="arunsaradgi" /></a>
  </div>
   -->
 
@@ -116,22 +117,22 @@
 <a href="https://github.com/arunsaradgi">
  </br>
   <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsaradgi&theme=vue-dark"/>
-  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=arunsaradgi&theme=monokai" alt="aman"
+  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=arunsaradgi&theme=monokai" alt="arun"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
-<p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=arunsaradgi&show_icons=true&locale=en&theme=vue-dark" alt="aman" width="46%" height="200px"/></p></div>
+<p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=arunsaradgi&show_icons=true&locale=en&theme=vue-dark" alt="arun" width="46%" height="200px"/></p></div>
 <div>
-<p align="center"><img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunsaradgi&layout=compact&langs_count=8&theme=vue-dark" alt="aman" height="200px"  width="48%"/></p></div>
+<p align="center"><img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunsaradgi&layout=compact&langs_count=8&theme=vue-dark" alt="arun" height="200px"  width="48%"/></p></div>
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunsaradgi&theme=monokai"  align="center"
         width="100%" heigth="250px"
       /></p>
 
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=arunsaradgi&theme=dracula" alt="aman" align="center" /></a>
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=arunsaradgi&theme=dracula" alt="arun" align="center" /></a>
 </p>
   <br/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
