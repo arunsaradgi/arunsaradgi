@@ -116,7 +116,7 @@
  <p align="center">
 <a href="https://github.com/arunsaradgi">
  </br>
-  <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsaradgi&theme=vue-dark"/>
+  <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsaradgi&theme=monokai"/>
   <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=arunsaradgi&theme=monokai" alt="arun"
    width ="100%"    align="center"
          height="200px" 
