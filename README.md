@@ -57,7 +57,6 @@
 
 <div >
  <h2><i>Tech Stack</i></h2>
-
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
@@ -65,7 +64,6 @@
      <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=Pink" alt="JSON" />    
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    
   
 </p>
 
@@ -84,34 +82,32 @@
 </div>
 
 <!----------------------------------------------------- All Skills Grid Formate --------------------------------------------------------->
-
-<br/>
-           
-<br>
-
-
-
-  <br/>
- <br/>
-
  <div >
+ <h2 align="center">
+<img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
+ My Github Stats 
+<img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center">
+</h2> 
 
  <a  align="left" width="700px" href="https://github.com/arunsaradgi"><img  width="350px" alt="Arun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsaradgi&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arunsaradgi&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="arunsaradgi" /></a>
 
 </div>
  <br/>
+ <br/>
+
+
+<br/>
 <div align="right">
  <a align="right">&nbsp;<img align="right"  src="https://github-readme-activity-graph.cyclic.app/graph?username=arunsaradgi&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="arunsaradgi" /></a>
  </div>
-  -->
-
+  
 <br/>
-<h2 align="center">
-<img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
- My Github Stats 
-<img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center">
-</h2>
+<br/>
+<br/>
+<br/>
+<br/>
+
  </h2>
  <p align="center">
 <a href="https://github.com/arunsaradgi">
@@ -121,8 +117,12 @@
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>
+<br/>
+<br/>
+<br/>
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
+   
 <p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=arunsaradgi&show_icons=true&locale=en&theme=vue-dark" alt="arun" width="46%" height="200px"/></p></div>
 <div>
 <p align="center"><img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunsaradgi&layout=compact&langs_count=8&theme=vue-dark" alt="arun" height="200px"  width="48%"/></p></div>
