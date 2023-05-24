@@ -122,7 +122,7 @@
 <br/>
 <br/>
 <br/>
-<div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
+<div display="grid" grid-template-column="repeat(2,1fr)" width="95" margin="auto">
   <div>
    
 <p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=arunsaradgi&show_icons=true&locale=en&theme=vue-dark" alt="arun" width="46%" height="200px"/></p></div>
