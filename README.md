@@ -92,21 +92,8 @@
 </h2> 
 
  <a  align="left" width="700px" href="https://github.com/arunsaradgi"><img  width="350px" alt="Arun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsaradgi&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arunsaradgi&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="arunsaradgi" /></a>
-
 </div>
- <br/>
- <br/>
 
-
-<br/>
-<div align="right">
- <a align="right">&nbsp;<img align="right"  src="https://github-readme-activity-graph.cyclic.app/graph?username=arunsaradgi&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="arunsaradgi" /></a>
- </div>
-  
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -123,19 +110,14 @@
 <br/>
 <br/>
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" margin="auto">
-  <div>
-   
-<p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=arunsaradgi&show_icons=true&locale=en&theme=vue-dark" alt="arun" width="46%" height="200px"/></p></div>
+
 <div>
-<p align="center"><img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunsaradgi&layout=compact&langs_count=8&theme=vue-dark" alt="arun" height="200px"  width="48%"/></p></div>
+<p align="center"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunsaradgi&layout=compact&langs_count=8&theme=vue-dark" alt="arun" height="200px"  width="48%"/></p></div>
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunsaradgi&theme=monokai"  align="center"
         width="100%" heigth="250px"
       /></p>
-
-<p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=arunsaradgi&theme=dracula" alt="arun" align="center" /></a>
-</p>
+ 
   <br/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
