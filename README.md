@@ -22,7 +22,7 @@
 
 <p aling="left" width="48%" height="300">
 
-- 🌱 Learning ** Web Development from Masai School**
+- 🌱 Learning ** Web Development **
 
 - 👯 I’m looking to work as **Full Stack Web Developer**
 
